@@ -1,0 +1,15 @@
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\bin\Debug\net6.0\Fundamentos I.exe
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\bin\Debug\net6.0\Fundamentos I.deps.json
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\bin\Debug\net6.0\Fundamentos I.runtimeconfig.json
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\bin\Debug\net6.0\Fundamentos I.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\bin\Debug\net6.0\Fundamentos I.pdb
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\obj\Debug\net6.0\Fundamentos I.csproj.AssemblyReference.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\obj\Debug\net6.0\Fundamentos I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\obj\Debug\net6.0\Fundamentos I.AssemblyInfoInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\obj\Debug\net6.0\Fundamentos I.AssemblyInfo.cs
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\obj\Debug\net6.0\Fundamentos I.csproj.CoreCompileInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\obj\Debug\net6.0\Fundamentos I.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\obj\Debug\net6.0\refint\Fundamentos I.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\obj\Debug\net6.0\Fundamentos I.pdb
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\obj\Debug\net6.0\Fundamentos I.genruntimeconfig.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 5\Dia 5\Fundamentos I\obj\Debug\net6.0\ref\Fundamentos I.dll
